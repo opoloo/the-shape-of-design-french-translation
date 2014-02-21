@@ -26,7 +26,6 @@ h1 {
 	letter-spacing: 2px;
 	font-weight: normal;
 	text-transform: lowercase;
-	font-variant: small-caps;
 	padding-top: 5em;
 	margin-top: 0;
 	margin-bottom: 4em;
@@ -42,7 +41,6 @@ h2 {
 	letter-spacing: 2px;
 	font-weight: normal;
 	text-transform: lowercase;
-	font-variant: small-caps;
 	margin-top: 3.2em;
 	margin-bottom: 0;
 	color: rgba(0,0,0,0.4);
@@ -54,7 +52,6 @@ header {
 	letter-spacing: 2px;
 	font-weight: normal;
 	text-transform: lowercase;
-	font-variant: small-caps;
 	text-align: center;
 	padding-bottom: 5em;
 	background-color: #fff;
@@ -118,7 +115,6 @@ cite, .osf, div.sign {
 	letter-spacing: 2px;
 	font-style: normal;
 	text-transform: lowercase;
-	font-variant: small-caps;
 }
 
 div.sign {
@@ -145,7 +141,6 @@ p.chap1-list {
 	font-family: ff-quadraat-sc-web, Georgia, serif;
 	letter-spacing: 2px;
 	text-transform: lowercase;
-	font-variant: small-caps;
 	color: #e74357;
 
 }
@@ -254,7 +249,6 @@ a.buybutton {
 	font-size: 1em;
 	letter-spacing: 2px;
 	text-transform: lowercase;
-	font-variant: small-caps;
 }
 
 a.buybutton:hover {
